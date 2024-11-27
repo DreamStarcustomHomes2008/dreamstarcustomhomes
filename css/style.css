@@ -542,6 +542,9 @@ color: #777;
 		margin-bottom: 10px;
 		text-shadow: 0 0 15px rgba(0,0,0,0.5);
 	}
+	.navbar-brand{
+		font-size: 29px;
+	}
 	#get-touch h2 {
 		font-size: 13.5px;
 		font-weight: 500;
